@@ -23,7 +23,7 @@ This project is a **Machine Learning-based web app** built using **Streamlit** t
 
 ---
 
-## Customer_Churn_Prediction/
+Customer_Churn_Prediction/
 │
 ├── app.py
 ├── customer_churn_model.pkl
