@@ -4,6 +4,12 @@ This project is a **Machine Learning-based web app** built using **Streamlit** t
 
 ---
 
+## 🎥 Demo Video
+
+👉 [Watch the demo on YouTube](https://youtu.be/BjhCPw_diF0)
+
+---
+
 ## 🚀 Features
 
 - Interactive **Streamlit web app**
