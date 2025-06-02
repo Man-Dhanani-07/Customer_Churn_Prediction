@@ -25,7 +25,7 @@ This project is a **Machine Learning-based web app** built using **Streamlit** t
 
 ## 🗂️ Project Structure
 
-bash
+''''bash
 Customer_Churn_Prediction/
 │
 ├── app.py                  # Streamlit web app
