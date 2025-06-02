@@ -1,0 +1,36 @@
+# 📉 Customer Churn Prediction App
+
+This project is a **Machine Learning-based web app** built using **Streamlit** that predicts whether a customer is likely to churn (i.e., stop using a service). It uses classification models trained on the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) and helps visualize predictions in an easy-to-use interface.
+
+---
+
+## 🚀 Features
+
+- Interactive **Streamlit web app**
+- Trained model with 75–80% accuracy
+- Handles **categorical encoding** using `LabelEncoder`
+- Accepts custom input from users
+- Real-time prediction: Will the customer **churn or not?**
+
+---
+
+## 🧠 Machine Learning Model
+
+- **Algorithm used:** Random Forest Classifier (you can replace with any other model)
+- **Accuracy:** ~0.80
+- **Feature encoding:** Label Encoding for categorical features
+- Models and encoders are saved using `pickle`.
+
+---
+
+## 🗂️ Project Structure
+
+```bash
+Customer_Churn_Prediction/
+│
+├── app.py                  # Streamlit web app
+├── customer_churn_model.pkl   # Trained model + feature names
+├── encoders.pkl            # Encoders used for categorical features
+├── requirements.txt        # Python dependencies
+├── README.md               # Project documentation
+└── sample_data.csv         # (Optional) Example input data
