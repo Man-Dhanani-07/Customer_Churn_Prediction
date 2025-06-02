@@ -23,17 +23,15 @@ This project is a **Machine Learning-based web app** built using **Streamlit** t
 
 ---
 
-## 🗂️ Project Structure
-
-'''bash
-Customer_Churn_Prediction/
+## Customer_Churn_Prediction/
 │
-├── app.py                  # Streamlit web app
-├── customer_churn_model.pkl   # Trained model + feature names
-├── encoders.pkl            # Encoders used for categorical features
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── sample_data.csv         # (Optional) Example input data
+├── app.py
+├── customer_churn_model.pkl
+├── encoders.pkl
+├── requirements.txt
+├── README.md
+└── sample_data.csv
+
 
 ---
 
