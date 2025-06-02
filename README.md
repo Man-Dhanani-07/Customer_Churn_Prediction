@@ -23,18 +23,7 @@ This project is a **Machine Learning-based web app** built using **Streamlit** t
 
 ---
 
-Customer_Churn_Prediction/
-│
-├── app.py
-├── customer_churn_model.pkl
-├── encoders.pkl
-├── requirements.txt
-├── README.md
-└── sample_data.csv
-
-
----
-
+## 📸 Screenshots
 - ![Screenshot 2025-06-02 233837](https://github.com/user-attachments/assets/40c8dd4b-789d-46c2-a8ac-f5fe47917e51)
 - ![Screenshot 2025-06-02 233909](https://github.com/user-attachments/assets/c0cc798a-38d5-44e0-8344-408455115245)
 - ![Screenshot 2025-06-02 234005](https://github.com/user-attachments/assets/ceaad68f-24e1-4e22-8536-54d17945209a)
